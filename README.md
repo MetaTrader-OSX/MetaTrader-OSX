@@ -40,12 +40,6 @@ The <a href="#">MQL scripting environment</a> provides access to the platform's 
 
 ---
 
-<p align="center">
-  <img src="https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/content2/img/mt4-mac-hero-desktop.jpg/jcr:content/renditions/original-size.webp" alt="MetaTrader screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 MetaTrader's charting and technical analysis tools set a standard that few competing platforms match. The combination of built-in indicators, custom MQL indicators, and multi-timeframe chart management gives traders the analytical infrastructure to apply virtually any technical methodology without external tools.
